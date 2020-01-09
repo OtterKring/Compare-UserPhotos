@@ -4,7 +4,7 @@
 
 I needed a way to quickly compare the photos of my users saved in Active Directory and Exchange (on premises or online).
 
-Compare-UserPhotos does just that. Fetch the pictures and shows them side by side.
+Compare-UserPhotos does just that. Fetch the pictures and show them side by side.
 
 ## Requirements
 
