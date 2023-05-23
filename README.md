@@ -1,4 +1,4 @@
-# PS_Compare-UserPhotos
+# Compare-UserPhotos
 
 ## Why
 
